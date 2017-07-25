@@ -6,7 +6,7 @@ More info at https://ww2.amstat.org/meetings/jsm/2017/onlineprogram/ActivityDeta
 
 ## When/where
 
-Wed, 8/2/2017, 10:30 AM - 12:20 PM - CC-341
+Wed, 8/2/2017, 10:30 AM - 12:20 PM / CC-341
 
 ## Abstract
 
