@@ -1,3 +1,3 @@
 # Rob Gould - UCLA
 
-[add bio here]
+Rob has been teaching statistics at UCLA since 1994, and has been vice-chair of the undergraduate program in the department of statistics since 1998. He is the founder of DataFest (which wouldn't have been possible without the help of lots of people, most notably the organizer of this session), and founding editor of the e-journal Technology Innovations in Statistics Education. He is co-author of a textbook for introductory statistics written for the two-year college community.   He has served on a variety of education committees for the ASA, and is currently chair of the joint ASA/AMATYC committee.  In 2012, he was elected Fellow of the ASA.
