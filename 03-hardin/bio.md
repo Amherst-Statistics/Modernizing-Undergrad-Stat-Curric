@@ -1,3 +1,3 @@
 # Jo Hardin - Pomona College
 
-[add bio here]
+Jo Hardin is a statistician at Pomona College.  Her PhD from UC Davis looked at clustering large datasets, and she has remained interested in big data -- especially big data in genetics.  Recently, her research has focused on ways to give statistics students the tools they need for working in a data-centric world.  She is the recipient of both the ASA's Waller Award and the MAA's Hogg Award, both for teaching statistics to undergraduates.  Additionally, she participated in the working group that updated the ASA's guidelines for undergraduate statistics programs, resulting in a special issue of The American Statistician on the modern undergraduate curriculum.
