@@ -8,7 +8,13 @@ August 2nd, 2017
 
 The ASA's 2014 guidelines for undergraduate programs in statistics stressed the importance of the integration of theory and practice to ensure that graduates have the capability to effectively extract meaning from data. Traditionally, an upper level course in mathematical statistics served to provide students with a theoretical foundation. Unfortunately, this course-often the last taken before graduation-did not reinforce aspects of computation and communication, nor could the theoretical foundations infuse later applied courses. While much has changed in our teaching of theory, further reconsider this curriculum is needed. In this talk, I will review the changing face of what many now call the "Theoretical Statistics" course, describe a variety of models that teach an integrated approach to theory and practice ([Horton](https://arxiv.org/abs/1309.7445), TAS, 2013), share sample materials and activities, and propose learning outcomes for a variety of courses.
 
+## Link to slides
+
+https://github.com/Amherst-Statistics/Modernizing-Undergrad-Stat-Curric/blob/master/01-horton/jsm2017-horton.pdf
+
 ## References
+
+- Baumer, B.S, Kaplan, D.T., and Horton, N.J. (2017) "Modern Data Science with R", CRC Press, http://mdsr-book.github.io.
 
 - Buttrey, S. E., Nolan, D. & Temple Lang, D. (2001). "Computing in the mathematical statistics course",
 ASA Proceedings of the Joint Statistical Meetings. 
