@@ -15,8 +15,12 @@ ASA Proceedings of the Joint Statistical Meetings.
 
 - Cobb, G. (2011). "Teaching statistics: some important tensions", *Chilean Journal of Statistics* 2(1): 31–62.
 
+- Cobb, G. (2015). "Mere Renovation is Too Little Too Late: We Need to Rethink Our Undergraduate Curriculum from the Ground Up", *The American Statistician*, 69(4):266-282, https://nhorton.people.amherst.edu/mererenovation.
+
 - Cohen, D. W. (1992). "A modified Moore method for teaching undergraduate mathematics", *American
 Mathematical Monthly* 89(7): 473–74,487–490.
+
+- Green, J.L., and Blankenship, E.E. (2015). "Fostering conceptual understanding in mathematical statistics", *The American Statistician*, 69(4):315-325, http://amstat.tandfonline.com/doi/abs/10.1080/00031305.2015.1069759.
 
 - Horton, N.J., Brown, E.R., and Qian, L. (2004), "Use of R as a Toolbox for Mathematical Statistics Exploration,” *The American Statistician*, 58, 343–357, http://www.math.smith.edu/~nhorton/R.
 
@@ -34,7 +38,6 @@ New York.
 - Rossman, A. & Chance, B. (2003). Notes from the 2003 JSM session Is the Math Stat Course Obsolete?
 http://https://higherlogicdownload.s3.amazonaws.com/AMSTAT/56c109df-f1a1-45e2-bb2b-a6880c16f76a/UploadedImages/MathStatObsolete2003.pdf
 
-18, 2013, Technical report, American Statistical Association. 
 - Wood, B.L., Mocko, M., Everson M., Horton, N.J., and Velleman, P. (2017), "Updated guidelines, updated curriculum: The GAISE College Report and introductory statistics for the modern student", *CHANCE*, in 
 press, https://arxiv.org/abs/1705.09530.
 
