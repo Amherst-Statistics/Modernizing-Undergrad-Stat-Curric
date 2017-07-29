@@ -16,7 +16,7 @@ The ASA's most recent curriculum guidelines emphasize the increasing importance 
 
 - **Speakers:**
   - Nick Horton - Amherst College
-  - Hilary Parker - Stich Fix
+  - Hilary Parker - Stitch Fix
   - Jo Hardin - Pomona College
   - Colin Rundel - Duke University
 - **Discussant:** Rob Gould - UCLA
